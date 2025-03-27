@@ -18,7 +18,7 @@ API REST desenvolvida com Spring Boot para gerenciamento de pedidos, permitindo 
 ## 🚀 Como Executar
 1. Clone o repositório
 ```bash
-git clone [url-do-repositório]
+git clone https://github.com/WhipDino/fiap-checkpoint1.git
 ```
 
 2. Entre na pasta do projeto
