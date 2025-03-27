@@ -173,7 +173,7 @@ DELETE http://localhost:8080/pedidos/1
 ```
 
 ## 👥 Autor
-[Seu Nome]
+João Morais
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
