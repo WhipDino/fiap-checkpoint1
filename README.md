@@ -172,6 +172,10 @@ DELETE http://localhost:8080/pedidos/1
 </dependencies>
 ```
 
+## Exemplos
+![image](https://github.com/user-attachments/assets/8cbb6f6e-4cc8-4cf5-980c-1c9d6d02ea79)
+![image](https://github.com/user-attachments/assets/d08def8d-485f-41e2-9725-2c3bcb5435b7)
+
 ## 👥 Autor
 João Morais
 
