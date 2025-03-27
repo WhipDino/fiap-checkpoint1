@@ -1,0 +1,11 @@
+{
+  "name": "checkpoint1",
+  "version": "1.0.0",
+  "description": "Checkpoint 1 - Spring Boot API",
+  "scripts": {
+    "start": "spring-boot-cli run src/main/java/br/com/fiap/checkpoint1/Checkpoint1Application.java"
+  },
+  "dependencies": {
+    "spring-boot-cli": "^1.6.0"
+  }
+}
